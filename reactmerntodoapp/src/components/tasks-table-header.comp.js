@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Table } from "react-bootstrap";
-import MappingTodosList from "./tasks-table.comp";
+import MappingTodosList from "./tasks-table.comp.js";
 
 
 //initially rendering "hello world" for this component
